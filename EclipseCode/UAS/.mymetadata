@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="UAS"
+  id="myeclipse.1200204650285"
+  context-root="/UAS"
+  j2ee-spec="1.4"
+  archive="UAS.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
